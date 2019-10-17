@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/hacker-news-dark-mode-reactapp/static/js/main.a08e3308.chunk.js",
+    "main.js.map": "/hacker-news-dark-mode-reactapp/static/js/main.a08e3308.chunk.js.map",
+    "runtime-main.js": "/hacker-news-dark-mode-reactapp/static/js/runtime-main.63fd053b.js",
+    "runtime-main.js.map": "/hacker-news-dark-mode-reactapp/static/js/runtime-main.63fd053b.js.map",
+    "static/js/2.9a76ac8d.chunk.js": "/hacker-news-dark-mode-reactapp/static/js/2.9a76ac8d.chunk.js",
+    "static/js/2.9a76ac8d.chunk.js.map": "/hacker-news-dark-mode-reactapp/static/js/2.9a76ac8d.chunk.js.map",
+    "index.html": "/hacker-news-dark-mode-reactapp/index.html",
+    "precache-manifest.0043f60885caacd93b1218092d01e455.js": "/hacker-news-dark-mode-reactapp/precache-manifest.0043f60885caacd93b1218092d01e455.js",
+    "service-worker.js": "/hacker-news-dark-mode-reactapp/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63fd053b.js",
+    "static/js/2.9a76ac8d.chunk.js",
+    "static/js/main.a08e3308.chunk.js"
+  ]
+}
