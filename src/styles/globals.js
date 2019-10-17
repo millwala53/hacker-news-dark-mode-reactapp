@@ -1,6 +1,6 @@
-import { createGlobalStyle  } from 'styled-components';
-import {colorsDark} from './palette'
-const GlobalStyles = () => createGlobalStyle `
+import { createGlobalStyle } from "styled-components";
+import { colorsDark } from "./palette";
+const GlobalStyles = createGlobalStyle`
     * {
       box-sizing: border-box;
     }
@@ -11,7 +11,7 @@ const GlobalStyles = () => createGlobalStyle `
       margin: 0;
       padding: 0;
       min-height: 100vh;
-      background-colors: ${colorsDark.background}
+      background-color: ${colorsDark.background}
     }
     ul {
       list-style: none;
