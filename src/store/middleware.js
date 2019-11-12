@@ -9,6 +9,7 @@ middlewareList.push(thunk);
 
 if (!isProd) {
   middlewareList.push(createLogger());
+  console.log("Running prod setup");
 }
 
 const middleware = compose(applyMiddleware(...middlewareList));
